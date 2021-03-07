@@ -1,0 +1,107 @@
+h1 {
+    color: grey;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.DL {
+    display: flex;
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: bold;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 20px;
+    padding: 10px 42px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    justify-content: center;
+    align-items: center;
+  }
+  .DL2 {
+    display: flex;
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+    padding: 10px 18px;
+    text-align: center;
+    text-decoration: bold;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    justify-content: center;
+    align-items: center;
+  }
+.body {
+    text-align: center;
+    align-items: center;
+}
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+.logo {
+    width: 18%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+.logo {
+    text-align: center;
+}
+section.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+.heroImg {
+    width: 500px;
+    margin: auto;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+    align-content: center;
+}
+
+footer {
+    background-color: #EBEBEB;
+    padding: 10px;
+
+}
+.main {
+    display: flexbox;
+    vertical-align: top;
+    text-align: center;
+}
+.about {
+    display: flexbox;
+    vertical-align: top;
+    text-align: center;
+}
+.skills {
+    display: inline-block;
+    vertical-align: top;
+    align-content: center;
+}
+.projects {
+    display: flex;
+    flex: 33.33%;
+    padding: 5px;
+}
+footer {
+    display: inline-flex;
+    flex: 33.33%;
+    padding: 10px;
+}
